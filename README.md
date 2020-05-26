@@ -3,7 +3,13 @@
 git clone https://github.com/manzolo/symfony-api-template
 cd symfony-api-template
 composer install
+
 ```
+# Creazione tabelle database da entity
+```
+bin/console doctrine:migrations:migrate
+```
+
 Nel file .env
   per mysql
 
