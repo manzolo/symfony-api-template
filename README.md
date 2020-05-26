@@ -51,4 +51,6 @@ http://127.0.0.1:8000/api/login_check
 ```
 
 # Link utili:
+https://www.wellnet.it/blog/consigli/come-integrare-api-platform-e-jwt-authentication-unapplicazione
+
 https://codete.com/blog/api-platform-rest-api-from-scratch-vol-2/
