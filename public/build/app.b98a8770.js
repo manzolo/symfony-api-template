@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[143],{15177:()=>{console.log("Hello Webpack Encore! Edit me in assets/js/app.js")}},s=>{var e;e=15177,s(s.s=e)}]);

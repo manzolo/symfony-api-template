@@ -1,9 +1,9 @@
 {
     "devDependencies": {
-        "@symfony/webpack-encore": "^1.0.0",
-        "core-js": "^3.0.0",
-        "regenerator-runtime": "^0.13.2",
-        "webpack-notifier": "^1.6.0"
+        "@symfony/webpack-encore": "^1.8.1",
+        "core-js": "^3.21.0",
+        "regenerator-runtime": "^0.13.9",
+        "webpack-notifier": "^1.15.0"
     },
     "license": "UNLICENSED",
     "private": true,
@@ -14,9 +14,10 @@
         "build": "encore production --progress"
     },
     "dependencies": {
-        "@api-platform/admin": "^2.2.0",
-        "@babel/preset-react": "^7.9.4",
-        "react": "^17.0.0",
-        "react-dom": "^17.0.0"
-    }
+        "@api-platform/admin": "^2.8.3",
+        "@babel/preset-react": "^7.16.7",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    },
+    "packageManager": "yarn@3.1.1"
 }
