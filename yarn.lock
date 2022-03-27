@@ -1615,9 +1615,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@symfony/webpack-encore@npm:^1.8.1":
-  version: 1.8.1
-  resolution: "@symfony/webpack-encore@npm:1.8.1"
+"@symfony/webpack-encore@npm:^1.8.2":
+  version: 1.8.2
+  resolution: "@symfony/webpack-encore@npm:1.8.2"
   dependencies:
     "@babel/core": ^7.7.0
     "@babel/plugin-syntax-dynamic-import": ^7.0.0
@@ -1646,7 +1646,7 @@ __metadata:
     yargs-parser: ^20.2.4
   bin:
     encore: bin/encore.js
-  checksum: 0bbcc49618428331794ac39e279c85e06fc3831b4d544417221a7957c95ba72af945b88d4b63c754fc54a7acba2f246bdcc04e98c2e5ed3e56fb72ef7390cabb
+  checksum: 7dcd1dc7a36990a9db11f142eaaf179d136a294841979d44e402d65f6a471e89487451c71f053853af77ec38d17df4b5dc1f637011cdb32d2ec8b167b0d7fe1f
   languageName: node
   linkType: hard
 
@@ -3090,10 +3090,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"core-js@npm:^3.21.0":
-  version: 3.21.0
-  resolution: "core-js@npm:3.21.0"
-  checksum: 87df49aa2c5d0a521c52102b6669842dd30b334742e86dd4e0173c51230bc48d610060ab6de0f149766d188325b8c1b84598f901cf455674fe6c03ccc5c8026f
+"core-js@npm:^3.21.1":
+  version: 3.21.1
+  resolution: "core-js@npm:3.21.1"
+  checksum: d68eddd831340ad5b24ac29c72fda022a43b17f194c4278b6b875a843283d316502cb4abd07f28631d6ebc4387f66aa06e2b1b3c8fd7e08096a751b5c63f6889
   languageName: node
   linkType: hard
 
@@ -7206,8 +7206,8 @@ __metadata:
   dependencies:
     "@api-platform/admin": ^2.8.3
     "@babel/preset-react": ^7.16.7
-    "@symfony/webpack-encore": ^1.8.1
-    core-js: ^3.21.0
+    "@symfony/webpack-encore": ^1.8.2
+    core-js: ^3.21.1
     react: ^17.0.2
     react-dom: ^17.0.2
     regenerator-runtime: ^0.13.9
