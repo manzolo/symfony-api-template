@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[328],{34040:(e,t,n)=>{"use strict";var r=n(67294),a=n(73935),p=n(67333),i=document.getElementById("api-entrypoint").innerText;a.render(r.createElement(p.Z,{entrypoint:i}),document.getElementById("api-platform-admin"))},24654:()=>{},97670:()=>{}},e=>{e.O(0,[333],(()=>{return t=34040,e(e.s=t);var t}));e.O()}]);
